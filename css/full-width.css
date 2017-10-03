@@ -1,0 +1,24 @@
+@media only screen and (min-width: 1280px) {
+	.wrapper {
+		width: 100% !important;
+		min-width: 1280px !important;
+	}
+	#header, #main-view {
+		width: 75% !important;
+		min-width: 879px !important;
+	}
+	#marketwatch-widget {
+		width: 25% !important;
+		min-width: 398px !important;
+	}
+	#marketwatches {
+		width: 25% !important;
+		min-width: 400px !important;
+	}
+	.marketwatch .item .price .icon {
+		display: none !important;
+	}
+	.marketwatch .item .price {
+		min-width: 83px !important;
+	}
+}
