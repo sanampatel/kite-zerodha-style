@@ -5,11 +5,16 @@ Custom stylesheets to make zerodha kite trading plateform full width with some t
 
 ## Installation
 
-Step 1. Install [injector](https://chrome.google.com/webstore/detail/injector/bfdonckegflhbiamlmidciapolfccmmb) from chrome web store.
-Setp 2. Grab full-width.css or any other from css directory.
-Step 3. Click on injector icon in chrome.
-Step 4. Click on + icon and add kite.zerodha.com url
+Step 1. Install **[injector](https://chrome.google.com/webstore/detail/injector/bfdonckegflhbiamlmidciapolfccmmb)** from chrome web store.
+
+Setp 2. Grab **full-width.css** or any other from css directory.
+
+Step 3. Click on **injector** icon in chrome.
+
+Step 4. Click on + icon and add **kite.zerodha.com** url
+
 Step 5. Paste CSS which copied in step 2.
+
 
 
 ### Todos!
