@@ -1,0 +1,34 @@
+/*
+Only for KITE 3 which is work on https://kite3.zerodha.com
+© - 2018 Sanam Patel ;-)
+Use wherever and whenever you want to use.
+*/
+
+.app .wrapper {
+	max-width: 100%;
+	width: 100%;
+}
+.app .header {
+	width: 100%;
+}
+.app .header .header-left {
+    flex: 0 0 30.1%;
+}
+.app .container .container-left {
+	flex: 0 0 30%;
+}
+.app .container .container-left .marketwatch-wrap {
+	width: 30%;
+}
+.marketwatch-sidebar .marketwatch-selector {
+	width: 30%;
+}
+.app .container .container-right {
+	max-width: 100%;
+	width: 70%;
+}
+@media (max-width: 767px) {
+	.app .container .container-right {
+		width: 100% !important;
+	}
+}
