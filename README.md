@@ -2,7 +2,11 @@
 
 Custom stylesheets to make zerodha kite trading plateform full width with some twicks.
 
-## Chrome Extention (Launched)
+## Chrome Extention for KITE 3.0 (Beta)
+
+**Full Width Zeodha Kite Trading Plateform** : [Click here](https://chrome.google.com/webstore/detail/kite-30-full-width-zerodh/blkggfdbpeboofklnehllkeiiphgfmmg) to download this as a chrome extention.
+
+## Chrome Extention for KITE 2.0 (Archive)
 
 **Full Width Zeodha Kite Trading Plateform** : [Click here](https://chrome.google.com/webstore/detail/full-width-zeodha-kite-tr/kgijjlkfegfhnopieicnjmbcbhnbnakh) to download this as a chrome extention.
 
@@ -27,6 +31,7 @@ Step 5. Paste CSS which copied in step 2.
 
  - Dark trade theme
  - Some more twicks
+ - Imporve KITE 3.0 Support
  
 
 
