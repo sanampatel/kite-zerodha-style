@@ -1,0 +1,19 @@
+.app .wrapper, .container {
+	max-width: 100% !important;
+}
+
+.app .container .container-left {
+	flex: 0 0 29.30% !important;
+}
+
+.app .container .container-right {
+	max-width: 70.70% !important;
+}
+
+.app .container .container-left .marketwatch-wrap, .marketwatch-sidebar .marketwatch-selector {
+	width: 29.30% !important;
+}
+
+.marketwatch-sidebar .marketwatch-selector li.item {
+	padding: 10px 25px !important;
+}
